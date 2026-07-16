@@ -18,3 +18,9 @@ _Error handling
 
 ##Status
 This project is currently under development.
+
+##updates
+_Added the XML parser
+_Added Code generator
+_Added xml file for testing the code
+_Added the cpp file from the code test
